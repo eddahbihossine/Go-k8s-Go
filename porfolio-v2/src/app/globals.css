@@ -1,0 +1,10 @@
+/* globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: 'Hamid';
+  src: url('/brillant.otf');
+}
